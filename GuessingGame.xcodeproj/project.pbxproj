@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		97A6DE30216E88D100E115C8 /* selectDifficultyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A6DE2F216E88D100E115C8 /* selectDifficultyViewController.swift */; };
 		97A850C4216CFC9500F1F850 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A850C3216CFC9500F1F850 /* AppDelegate.swift */; };
 		97A850C6216CFC9500F1F850 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A850C5216CFC9500F1F850 /* ViewController.swift */; };
 		97A850C9216CFC9500F1F850 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97A850C7216CFC9500F1F850 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		97A6DE2F216E88D100E115C8 /* selectDifficultyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selectDifficultyViewController.swift; sourceTree = "<group>"; };
 		97A850C0216CFC9500F1F850 /* GuessingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessingGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97A850C3216CFC9500F1F850 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		97A850C5216CFC9500F1F850 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				97A850C3216CFC9500F1F850 /* AppDelegate.swift */,
 				97A850C5216CFC9500F1F850 /* ViewController.swift */,
+				97A6DE2F216E88D100E115C8 /* selectDifficultyViewController.swift */,
 				97A850C7216CFC9500F1F850 /* Main.storyboard */,
 				97A850CA216CFC9600F1F850 /* Assets.xcassets */,
 				97A850CC216CFC9600F1F850 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97A6DE30216E88D100E115C8 /* selectDifficultyViewController.swift in Sources */,
 				97A850C6216CFC9500F1F850 /* ViewController.swift in Sources */,
 				97A850C4216CFC9500F1F850 /* AppDelegate.swift in Sources */,
 			);
